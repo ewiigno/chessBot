@@ -42,3 +42,12 @@ The most important command is `move [currentField] [endField]`. This is how you 
 When the game is over you can still type and use commands but it won't do anything. If you want to delete this channel it is highly recommended to use `delete` in this channel instead of deleting it in discord. This will clear space for the bot. 
 
 
+
+## libraries
+* [discord.js](https://www.npmjs.com/package/discord.js)
+* [chess](https://www.npmjs.com/package/chess)
+* [graphicsmagick](https://www.npmjs.com/package/gm)
+
+
+
+
