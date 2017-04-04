@@ -1,3 +1,9 @@
 # chessBot
-## Pretty nice bot, coded by a pretty nice person
--------------------------------------------------
+
+This bot is using discord.js and is made to play chess on your discord server
+
+
+
+## Hot to use it?
+
+
